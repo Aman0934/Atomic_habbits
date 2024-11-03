@@ -1,16 +1,134 @@
 What i had learned today : -->
 Difficult Words:-->
-i) Flurry
-ii) Rehabilitation
-iii) Radical
-iv) Devoid
-v) Grit
-vi) Tempting
-vii) Foster
-viii) Bluntly
-ix) Muster
-x) Zen attitude
-xi) Grooves
+i) Flurry :->A sudden burst of activity or a rapid occurrence of events; also refers to a light snowfall.
+    Hindi Meaning: अचानक होने वाली हलचल या बर्फ के हल्के फाहे।
+
+    Examples:
+        "There was a flurry of activity in the office as the deadline approached."
+        "The flurry of snowflakes created a picturesque winter scene."
+    हिंदी में उदाहरण:
+        "डेडलाइन के नजदीक आने पर कार्यालय में हलचल की फ्लरी थी।"
+        "बर्फ की फ्लरी ने एक सुंदर सर्दियों का दृश्य बनाया।"
+ii) Rehabilitation :-> The process of restoring someone to health or normal life through training and therapy after imprisonment, addiction, or illness.
+    Hindi Meaning: किसी व्यक्ति को स्वास्थ्य या सामान्य जीवन में वापस लाने की प्रक्रिया, आमतौर पर चिकित्सा, प्रशिक्षण या थेरपी के माध्यम से।
+    Examples:
+        "After his surgery, he underwent rehabilitation to regain his strength."
+        "The rehabilitation program helped many recovering addicts reintegrate into society."
+    हिंदी में उदाहरण:
+        "अपनी सर्जरी के बाद, उसने अपनी ताकत पाने के लिए पुनर्वास प्रक्रिया का पालन किया।"
+        "पुनर्वास कार्यक्रम ने कई recovering नशेड़ियों को समाज में फिर से समाहित होने में मदद की।"
+iii) Radical :-> Relating to or affecting the fundamental nature of something; extreme or revolutionary; also refers to a person who advocates for significant social or political change.
+    Hindi Meaning: किसी चीज़ की मौलिक प्रकृति से संबंधित; अत्यधिक या क्रांतिकारी; एक ऐसा व्यक्ति जो महत्वपूर्ण सामाजिक या राजनीतिक परिवर्तन के लिए समर्थन करता है।
+    Examples:
+        "The group proposed radical changes to the existing education system."
+        "His radical ideas sparked a lot of debate among the community."
+    हिंदी में उदाहरण:
+        "समूह ने मौजूदा शिक्षा प्रणाली में मौलिक परिवर्तन का प्रस्ताव दिया।"
+        "उसके अत्यधिक विचारों ने समुदाय में बहुत बहस छेड़ी।"
+iv) **Devoid**
+
+ **English Meaning**: Completely lacking or empty; having none of something.
+
+ **Hindi Meaning**: पूरी तरह से रहित या खाली; किसी चीज़ की अनुपस्थिति।
+
+ **Examples**:
+   "The abandoned house was devoid of furniture and life."
+   "Her expression was devoid of emotion."
+
+ **हिंदी में उदाहरण**:
+   "परित्यक्त घर फर्नीचर और जीवन से रहित था।"
+   "उसका चेहरा भावनाओं से रहित था।"
+v) **Grit**
+
+ **English Meaning**: Courage and resolve; strength of character; also refers to the perseverance and determination in facing difficulties.
+
+ **Hindi Meaning**: साहस और दृढ़ता; चरित्र की ताकत; कठिनाइयों का सामना करने में धैर्य और निर्णय।
+
+ **Examples**:
+   "It takes a lot of grit to overcome challenges and achieve your goals."
+   "Her grit and determination helped her succeed in a competitive environment."
+
+ **हिंदी में उदाहरण**:
+   "चुनौतियों को पार करने और अपने लक्ष्यों को प्राप्त करने के लिए बहुत साहस और दृढ़ता की आवश्यकता होती है।"
+   "उसकी साहस और दृढ़ता ने उसे प्रतिस्पर्धात्मक माहौल में सफल होने में मदद की।"
+vi) **Tempting**
+
+ **English Meaning**: Attractive or appealing, especially in a way that entices someone to do something or indulge in something.
+
+ **Hindi Meaning**: आकर्षक या मनमोहक, विशेष रूप से ऐसा जो किसी को कुछ करने या कुछ भोगने के लिए प्रेरित करे।
+
+ **Examples**:
+   "The dessert looked so tempting that I couldn't resist having a piece."
+   "She received a tempting job offer that promised a high salary and benefits."
+
+ **हिंदी में उदाहरण**:
+   "मिठाई इतनी आकर्षक लग रही थी कि मैं एक टुकड़ा लेने से खुद को रोक नहीं सका।"
+   "उसे एक ऐसा आकर्षक नौकरी का प्रस्ताव मिला जिसने उच्च वेतन और लाभ का वादा किया।"
+vii) **Foster**
+
+ **English Meaning**: To encourage the development or growth of something; to provide care for a child not biologically one's own, typically in a temporary arrangement.
+
+ **Hindi Meaning**: किसी चीज़ के विकास या वृद्धि को प्रोत्साहित करना; एक बच्चे की देखभाल करना जो जैविक रूप से अपना नहीं होता, आमतौर पर अस्थायी व्यवस्था में।
+
+ **Examples**:
+   "The organization aims to foster a sense of community among its members."
+   "They decided to foster a child in need of a loving home."
+
+ **हिंदी में उदाहरण**:
+   "यह संगठन अपने सदस्यों के बीच सामुदायिक भावना को बढ़ावा देने का लक्ष्य रखता है।"
+   "उन्होंने एक ऐसे बच्चे को पालने का निर्णय लिया जिसे प्यार भरे घर की आवश्यकता थी।"
+viii) **Bluntly**
+
+ **English Meaning**: In a straightforward and direct manner; without any attempt to be tactful or polite.
+
+ **Hindi Meaning**: एक स्पष्ट और सीधी तरीके से; बिना किसी प्रयास के विनम्र या सामंजस्यपूर्ण होने के।
+
+ **Examples**:
+   "She spoke bluntly about the issues in the project, leaving no room for misinterpretation."
+   "He bluntly refused the offer, stating that it wasn't suitable for him."
+
+ **हिंदी में उदाहरण**:
+   "उसने परियोजना में मुद्दों के बारे में स्पष्टता से बात की, जिससे कोई गलतफहमी की गुंजाइश नहीं बची।"
+   "उसने स्पष्टता से प्रस्ताव को अस्वीकार कर दिया, यह कहते हुए कि यह उसके लिए उपयुक्त नहीं था।"
+ix) **Muster**
+
+ **English Meaning**: To gather or assemble (usually troops or resources) for a specific purpose; to summon up (as in courage or strength).
+
+ **Hindi Meaning**: किसी विशेष उद्देश्य के लिए इकट्ठा करना या इकट्ठा होना (आमतौर पर सैनिकों या संसाधनों के लिए); (जैसे, साहस या शक्ति) को एकत्र करना।
+
+ **Examples**:
+   "The general called for the troops to muster at dawn."
+   "She tried to muster the courage to speak in front of the large audience."
+
+ **हिंदी में उदाहरण**:
+   "जनरल ने सैनिकों को सुबह के समय इकट्ठा होने के लिए कहा।"
+   "उसने बड़े दर्शकों के सामने बोलने के लिए साहस जुटाने की कोशिश की।"
+x) **Zen Attitude**
+
+ **English Meaning**: A mindset characterized by calmness, mindfulness, and acceptance, often associated with the principles of Zen Buddhism; it involves living in the present moment and finding peace amidst chaos.
+
+ **Hindi Meaning**: एक मानसिकता जो शांति, सतर्कता और स्वीकृति से परिभाषित होती है, अक्सर ज़ेन बौद्ध धर्म के सिद्धांतों से संबंधित; इसमें वर्तमान क्षण में जीना और अराजकता के बीच शांति पाना शामिल है।
+
+ **Examples**:
+   "He approached the stressful situation with a Zen attitude, remaining calm and focused."
+   "Practicing meditation helps cultivate a Zen attitude towards life's challenges."
+
+ **हिंदी में उदाहरण**:
+   "उसने तनावपूर्ण स्थिति का सामना एक ज़ेन मानसिकता के साथ किया, शांत और केंद्रित रहते हुए।"
+   "ध्यान करने का अभ्यास जीवन की चुनौतियों के प्रति एक ज़ेन मानसिकता विकसित करने में मदद करता है।"
+xi) **Grooves**
+
+ **English Meaning**: Long, narrow cuts or indentations in a surface; also refers to a rhythmic pattern in music, or a comfortable, familiar routine or habit.
+
+ **Hindi Meaning**: एक सतह में लंबे, संकीर्ण कटाव या गहराई; संगीत में एक लयबद्ध पैटर्न या एक आरामदायक, परिचित दिनचर्या या आदत भी हो सकती है।
+
+ **Examples**:
+   "The vinyl record has deep grooves that create a unique sound when played."
+   "Once you find your groove in a new job, it becomes easier to perform your tasks."
+
+ **हिंदी में उदाहरण**:
+   "विनाइल रिकॉर्ड में गहरे कटाव होते हैं जो बजाने पर एक अद्वितीय ध्वनि उत्पन्न करते हैं।"
+   "जब आप नई नौकरी में अपनी लय ढूंढ लेते हैं, तो अपने कार्यों को करना आसान हो जाता है।"
 
 Summary
 1:-> The inversion of the 1st Law Behaviour Change is make it invisible.
