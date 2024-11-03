@@ -1,16 +1,111 @@
 What is learned today -->
 
 Difficult words :
-i) Peck
-ii) Elicits
+i) **Peck**
+
+ **English Meaning**: To strike or touch lightly, often used to describe how birds feed; can also refer to a small quantity or amount.
+
+ **Hindi Meaning**: हल्का मारना या छूना, अक्सर यह वर्णन करने के लिए उपयोग किया जाता है कि कैसे पक्षी भोजन करते हैं; यह एक छोटी मात्रा या अनुपात को भी संदर्भित कर सकता है।
+
+ **Examples**:
+   "The bird began to peck at the seeds scattered on the ground."
+   "She only took a peck of the pie, as she wasn't very hungry."
+
+ **हिंदी में उदाहरण**:
+   "पक्षी ने जमीन पर बिखरे बीजों पर चोंच मारना शुरू किया।"
+   "उसने केवल पाई का एक छोटा सा हिस्सा लिया, क्योंकि वह ज्यादा भूखी नहीं थी।"
+ii) **Elicits**
+
+ **English Meaning**: To draw out or bring forth a response, answer, or reaction from someone; to evoke or provoke.
+
+ **Hindi Meaning**: किसी व्यक्ति से प्रतिक्रिया, उत्तर या प्रतिक्रिया निकालना; उत्प्रेरित करना या उत्तेजित करना।
+
+ **Examples**:
+   "The teacher’s question elicited thoughtful responses from the students."
+   "The movie's emotional scenes elicited tears from the audience."
+
+ **हिंदी में उदाहरण**:
+   "शिक्षक के प्रश्न ने छात्रों से विचारशील प्रतिक्रियाएँ निकालीं।"
+   "फिल्म के भावनात्मक दृश्यों ने दर्शकों से आँसू निकाले।"
 iii) We have gotten too good to pushing our own buttons.
-iv) Enticing
-v) Apparent 
-vi) Squirted
-vii) grins
-viii) Breakneck Speed
-ix) Anticipate
-x) Surge
+iv) **Enticing**
+
+ **English Meaning**: Attractive or tempting; likely to attract interest or desire.
+
+ **Hindi Meaning**: आकर्षक या प्रलोभन देने वाला; जो रुचि या इच्छा को आकर्षित करने की संभावना रखता है।
+
+ **Examples**:
+   "The bakery displayed an enticing array of pastries that drew in customers."
+   "She found the job offer enticing because of the excellent benefits and salary."
+
+ **हिंदी में उदाहरण**:
+   "बेकरी ने ग्राहकों को आकर्षित करने वाले आकर्षक पेस्ट्री का प्रदर्शन किया।"
+   "उसे नौकरी का प्रस्ताव आकर्षक लगा क्योंकि इसमें शानदार लाभ और वेतन था।"
+v) **Apparent**
+
+ **English Meaning**: Clearly visible or understood; obvious; seeming or appearing to be true.
+
+ **Hindi Meaning**: स्पष्ट रूप से दिखाई देने वाला या समझ में आने वाला; स्पष्ट; ऐसा लगने वाला या प्रतीत होने वाला जो सत्य हो।
+
+ **Examples**:
+   "It was apparent that she had put a lot of effort into her presentation."
+   "The apparent contradiction in his statement raised questions."
+
+ **हिंदी में उदाहरण**:
+   "यह स्पष्ट था कि उसने अपनी प्रस्तुति में बहुत प्रयास किया था।"
+   "उसके बयान में स्पष्ट विरोधाभास ने सवाल उठाए।" 
+vi) **Squirted**
+
+ **English Meaning**: To forcefully eject liquid in a thin stream or jet; often used to describe a quick, sudden release of liquid.
+
+ **Hindi Meaning**: एक पतली धारा या जेट में तरल को मजबूरन बाहर निकालना; अक्सर तरल की त्वरित, अचानक रिलीज का वर्णन करने के लिए उपयोग किया जाता है।
+
+ **Examples**:
+   "He squirted ketchup on his fries."
+   "The water gun squirted water all over the place during the game."
+
+ **हिंदी में उदाहरण**:
+   "उसने अपने फ्राइज़ पर केचप छिड़का।"
+   "पानी की बंदूक ने खेल के दौरान चारों ओर पानी छिड़का।"
+vii) **Grins**
+
+ **English Meaning**: To smile broadly, typically showing the teeth; a facial expression of happiness or amusement.
+
+ **Hindi Meaning**: चौड़े मुस्कान के साथ मुस्कुराना, आमतौर पर दांत दिखाते हुए; खुशी या मनोरंजन का चेहरे का भाव।
+
+ **Examples**:
+   "The children grinned with delight when they saw the puppy."
+   "He couldn’t help but grin when he heard the good news."
+
+ **हिंदी में उदाहरण**:
+   "बच्चे पिल्ला देखकर खुशी से मुस्कुराए।"
+   "उसे अच्छी खबर सुनकर मुस्कुराने से रोक नहीं सका।"
+ix) **Anticipate**
+
+ **English Meaning**: To expect or predict something; to look forward to an event or situation.
+
+ **Hindi Meaning**: किसी चीज़ की उम्मीद करना या पूर्वानुमान करना; किसी घटना या स्थिति का इंतजार करना।
+
+ **Examples**:
+   "We anticipate a large turnout for the concert this weekend."
+   "She anticipated his reaction and was prepared for it."
+
+ **हिंदी में उदाहरण**:
+   "हम इस सप्ताहांत कॉन्सर्ट के लिए बड़ी संख्या में आने की उम्मीद करते हैं।"
+   "उसने उसकी प्रतिक्रिया की उम्मीद की और उसके लिए तैयार थी।"
+x) **Surge**
+
+ **English Meaning**: A sudden powerful forward or upward movement; a strong increase or rise, often used to describe a rapid increase in something.
+
+ **Hindi Meaning**: एक अचानक शक्तिशाली आगे या ऊपर की ओर गति; किसी चीज़ में तेज वृद्धि या उछाल, अक्सर तीव्र वृद्धि के वर्णन में उपयोग किया जाता है।
+
+ **Examples**:
+   "There was a surge of electricity that caused the lights to flicker."
+   "The company experienced a surge in sales during the holiday season."
+
+ **हिंदी में उदाहरण**:
+   "एक बिजली की उछाल हुई जिसने रोशनी को झपकने का कारण बना दिया।"
+   "छुट्टियों के मौसम में कंपनी को बिक्री में तेजी का अनुभव हुआ।"
 
 Summary 
 1) The 2nd Law of Behaviour Change is make it attractive
